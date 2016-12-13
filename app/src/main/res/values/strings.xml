@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Examen</string>
+    <string name="aritmetica">Proves Aritmètiques</string>
+    <string name="Preguntes">Nombre de preguntes</string>
+    <string name="curt">5 preguntes</string>
+    <string name="mitj">10 preguntes</string>
+    <string name="llarg">20 preguntes</string>
+    <string name="comenzar">Començar</string>
+    <string name="suma">Suma</string>
+    <string name="resta">Resta</string>
+    <string name="sumaresta">Suma i Resta</string>
+    <string name="nombre">Pon tu nombre</string>
+    <string name="hint_nombre">Nombre aqui</string>
+    <string name="pregunta">Pregunta</string>
+    <string name="hint_resposta">Resposta</string>
+    <string name="seguent"> >> </string>
+    <string name="finale"> Avançar</string>
+
+</resources>
